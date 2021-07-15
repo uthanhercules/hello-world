@@ -1,3 +1,2 @@
-## Quebrando a maldição
- 
-Fazendo a boa e velha tradição para quebrar a maldição e conseguir aprender JavaScript.
+## Breaking the Curse
+Doing the good tradition to break the curse and learn JavaScript. 
